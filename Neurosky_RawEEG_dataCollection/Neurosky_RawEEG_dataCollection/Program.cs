@@ -70,11 +70,11 @@ namespace ConsoleApp1
                         string[] packets = Encoding.UTF8.GetString(buffer, 0, bytesRead).Split('\r');
                         //foreach (string s in packets)
                         //{
-                            
-                            //var json = System.IO.File.ReadAllText(s.Trim());
-                            //var objects = Newtonsoft.Json.Linq.JArray.Parse(s); // parse as array
-                            Console.WriteLine(packets.GetValue(0));
-                            //parseJSON(s.Trim());
+
+                        //var json = System.IO.File.ReadAllText(s.Trim());
+                        //var objects = Newtonsoft.Json.Linq.JArray.Parse(s); // parse as array
+                        Console.WriteLine(packets.GetValue(0));
+                        //parseJSON(s.Trim());
                         //}
                     }
                 }
