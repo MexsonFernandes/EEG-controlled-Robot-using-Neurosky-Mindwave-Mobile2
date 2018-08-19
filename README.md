@@ -2,4 +2,4 @@
 
 @Developer's': Mexson Fernandes, Sandeep Kumar singh, Kaustubh Prabhu, Dinesh Sharma
 
-Developer's Message:: Thanks for using it. Do give your valuable feedback or for any query contact at sandeepsingh.nita@gmail.com. Till than,#Happy Coding;
+Developer's Message:: Thanks for using it. Do give your valuable feedback or for any query contact at kaustubhprabhu98@gmail.com, sandeepsingh.nita@gmail.com. Till than,#Happy Coding;
