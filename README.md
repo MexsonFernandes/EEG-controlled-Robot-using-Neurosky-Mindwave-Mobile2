@@ -1,9 +1,10 @@
-# `Neurosky Mindwave Mobile 2 headset controlled Mobile Robot`
+# `Neurosky Mindwave Mobile 2 headset controlled Arduino Mobile Robot`
 
-@Developer's': 
-                Mexson Fernandes
-                Sandeep Kumar singh, 
-                Kaustubh Prabhu, 
-                Dinesh Sharma
+## Team:
+ 1) Mexson Fernandes
+ 2) Sandeep Kumar singh, 
+ 3) Kaustubh Prabhu, 
+ 4) Dinesh Sharma
 
-Developer's Message:: Thanks for using it. Do give your valuable feedback or for any query contact at kaustubhprabhu98@gmail.com, sandeepsingh.nita@gmail.com. Till then,#Happy Coding;
+## Note:
+  Do give your valuable feedback at robomex2020@gmail.com, kaustubhprabhu98@gmail.com, sandeepsingh.nita@gmail.com. #HappyCoding
